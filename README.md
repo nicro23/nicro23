@@ -1,7 +1,14 @@
 ## Greetings traveller,
-Welcome...
-- they call me mohammed mohsen
-i've been travelling through 
+<pre>
+  how do you do navigating these forests? have you found the barks you're looking for? 
+  well, you somehow ended up in my tree. it's an honor to have you passing by.
+  feel free to seek anything you want, and if you need a hand reach out right away(mohammedmohsen1c@gmail.com).
+
+  - Name's Mohammed Mohsen
+  - Second year CS student
+  - Seeker of knowledge in <b>all</b> it's forms
+  
+</pre> 
 <!--
 **nicro23/nicro23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
