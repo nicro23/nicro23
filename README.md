@@ -6,7 +6,7 @@
 
   - Name's Mohammed Mohsen
   - Second year CS student
-  - Seeker of knowledge in <b>all</b> it's forms
+  - Seeker of knowledge in all it's forms
   
 </pre> 
 <!--
