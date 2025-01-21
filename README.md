@@ -4,7 +4,7 @@
   well, you somehow ended up in my tree. it's an honor to have you passing by.
   feel free to seek anything you want, and if you need a hand reach out right away(mohammedmohsen1c@gmail.com).
 
-  - Mohammed Mohsen
+  - Name's Mohammed Mohsen
   - Second year CS student
   - Seeker of knowledge in all it's forms
   
