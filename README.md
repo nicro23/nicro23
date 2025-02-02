@@ -1,13 +1,8 @@
-## Greetings traveller,
 <pre>
-  how do you do navigating these forests? have you found the barks you're looking for? 
-  well, you somehow ended up in my tree. it's an honor to have you passing by.
-  feel free to seek anything you want, and if you need a hand reach out right away(mohammedmohsen1c@gmail.com).
-
-  - Name's Mohammed Mohsen
-  - Second year CS student
-  - Seeker of knowledge in all it's forms
-  
+  - Name: Mohammed Mohsen
+  - Currently: Second year CS student
+  - Working on: 
+  - Email: mohammedmohsen1c@gmail.com
 </pre> 
 <!--
 **nicro23/nicro23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
