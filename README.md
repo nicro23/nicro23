@@ -1,8 +1,9 @@
 <pre>
   - Name: Mohammed Mohsen
   - Currently: Second year CS student
-  - Working on: 
+  - Working on: Studying software testing
   - Email: mohammedmohsen1c@gmail.com
+  - Hobby: reading
 </pre> 
 <!--
 **nicro23/nicro23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
